@@ -1,2 +1,3 @@
 # my-markdown
-My first GitHub repository, used to store some documentation.
+
+这里用来存放一些学计算机的心得和一些杂七杂八的东西。
